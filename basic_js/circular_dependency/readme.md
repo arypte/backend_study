@@ -1,7 +1,7 @@
-### 순환 종속성
+# 순환 종속성
 
-# a require b
-# b require a 
+### a require b
+### b require a 
 
 ```
 a -> {
