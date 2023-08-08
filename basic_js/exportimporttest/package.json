@@ -1,0 +1,12 @@
+{
+  "name": "exportimporttest",
+  "version": "1.0.0",
+  "description": "export import 사용하는건 ESM",
+  "main": "import.js",
+  "type":"module" ,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
